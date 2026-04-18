@@ -1,4 +1,4 @@
-# Karin Padilla | KaiaTech ⚡
+# Karin Padilla | KaiaOps ⚡
 
 ### ⚡ Automation | 🌐 Data Strategy | 📊 Analytics
 
