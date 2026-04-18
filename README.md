@@ -1,14 +1,15 @@
-# Karin Padilla | Data Analytics & Automation ⚡
+# Karin Padilla | KaiaTech ⚡
 
-### Bridging the gap between Business Operations and Technical Execution 🚀
+### ⚡ Automation | 🌐 Data Strategy | 📊 Analytics
 
-I am a seasoned professional with a robust background in managing complex processes and Customer Experience. Currently, I am evolving my career into the technical side of business, mastering **Python**, **Data Analytics**, and **AI Automation** to build more efficient and data-driven solutions.
+### Bridging the gap between Business Operations and Technical Execution 🔝
 
-- 📈 **Current Focus:** IBM Data Analytics Professional Certificate.
-- 🤖 **Automation:** Leveraging **N8N** and **Python** for marketing tech workflows.
-- 🛡️ **Cyber-Ops:** Building secure data handling foundations.
-- 🌍 **Location:** Venezuela | Relocating to Bilbao, Spain 🇪🇸
+Data Strategy & Automation Specialist focused on optimizing complex processes through scalable technical solutions. Under the **KaiaTech** brand, I design intelligent workflows that transform raw data into strategic decisions.
 
+- 🛠️ **Current Focus:** Advanced automation with n8n and Python.
+- 📊 **Data Science:** Strategic analysis and data visualization specialist.
+- 🛡️ **Infrastructure:** Secure Linux environments and virtualization.
+- ✉️ **Contact:** [kp.karinpadilla@gmail.com](mailto:kp.karinpadilla@gmail.com)
 ---
 
 ### 🛠️ Tech Stack & Digital Arsenal
