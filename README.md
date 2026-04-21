@@ -5,11 +5,8 @@
 ---
 
 ### KAIX | BizOps & Data Builder ⚡
-**Integrating Strategy, Analytics, and Automation for Seamless Operations**
-
-📈 **Data & Analytics** | Strategic insights through Python and SQL.
-🤖 **AI & Automation** | Building intelligent, scalable workflows.
-🛠️ **Strategy & Execution** | Turning operational complexity into efficient systems.
+**Analytics • Automation 📈**
+**Strategy & Execution 🛠️**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/karinpadilla" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
