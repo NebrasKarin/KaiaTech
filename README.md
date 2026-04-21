@@ -1,12 +1,15 @@
-# Karin Padilla | Data Analytics & Automation ⚡
+# Karin Padilla | BizOps & Data Analytics ⚡
 
 ### Bridging the gap between Business Operations and Technical Execution 🚀
 
 ---
 
-### KAIX | Data & AI Builder ⚡
-**Analytics • Automation 📈**
-**Strategy & Execution 🛠️**
+### KAIX | BizOps & Data Builder ⚡
+**Integrating Strategy, Analytics, and Automation for Seamless Operations**
+
+📈 **Data & Analytics** | Strategic insights through Python and SQL.
+🤖 **AI & Automation** | Building intelligent, scalable workflows.
+🛠️ **Strategy & Execution** | Turning operational complexity into efficient systems.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/karinpadilla" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -16,9 +19,9 @@
 ---
 
 ### 💡 Professional Evolution
-I am a seasoned professional with a robust background in Business Operations and Customer Experience. Under the **KAIX** identity, I am documenting my transition into the technical side of business—mastering **Python, Data Analytics, and AI Automation** to build efficient, data-driven solutions.
+I am a seasoned professional with a robust background in **Business Operations (BizOps)** and Customer Experience. Under the **KAIX** identity, I am documenting my transition into the technical side of business—mastering **Python, Data Analytics, and AI Automation** to build efficient, data-driven solutions.
 
-This profile serves as my **evolving portfolio**, where I document my learning journey, technical practices, and the development of intelligent workflows.
+This profile serves as my **evolving technical workshop**, where I document my learning journey, technical practices, and the development of intelligent workflows.
 
 - 📈 **Current Focus:** IBM Data Analytics Professional Certificate.
 - 🤖 **Automation:** Building marketing tech workflows with **n8n** and **Python**.
